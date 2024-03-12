@@ -1,0 +1,70 @@
+*{
+    border: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+.informacao{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 5%;
+}
+
+.informacao_conteudo{
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    gap: 20px;
+}
+
+
+img{
+    display: flex;
+    margin: 20px;
+    width:max-content;
+}
+
+.nome{
+    font-size: 40px;
+    color: cornflowerblue;
+    display: flex;
+    margin: 0;
+}
+
+.idade_curso{
+    font-size: 30px;
+    display: flex;
+    margin: 0;
+}
+
+.texto{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.links{
+  display: flex;
+  justify-content: space-between;
+}
+
+.links_link{
+    color: black;
+    background-color: cadetblue;
+    width: 120px;
+    height: 20px;
+    text-align:center;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px;
+    text-decoration: none;
+}
