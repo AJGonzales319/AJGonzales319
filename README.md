@@ -1,11 +1,10 @@
 - Hi there, I’m @AJGonzales319 😊
-- I’m interested in programming 
-- I’m currently learning Javascript
-- I’m looking to collaborate on streaming sites and music 🥰
+- I’m currently learning HTML and CSS
+- I’m interested in be a Fullstack Dev 🥰
 - I'm still new in this area, looking for recommendations and tips 
-- You can reach me via email: annajulia.bg319@gmail.com 
+- You can reach me via Instagram: @annajuliabobrzyk 
 - Pronouns: she/her 😄
-- Fun fact: before coming here, I was in vet medicine 💊. I learned that I'm too weak for animals, this is why I'm vegetarian now too 😂
+- I like gaming, reading and learning new languages 
 
 <!---
 AJGonzales319/AJGonzales319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
